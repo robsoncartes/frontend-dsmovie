@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![](repository-images/dsmovie.png)
+
+You can acess this application in https://frontend-dsmovie.vercel.app \
+Note: the request response may take a few seconds, because if there are no requests to the backend for at least thirty minutes, 
+the application instance hosted on Heroku goes into hibernation.
+
 ## Available Scripts
 
 In the project directory, you can run:
